@@ -1,4 +1,9 @@
-
+//
+//  CustomTextField
+//
+//  Created by Philippe Asselbergh
+//  Copyright © 2017 Philippe Asselbergh. All rights reserved.
+//
 import UIKit
 /** extension to UIColor to allow setting the color
  value by hex value */
